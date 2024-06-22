@@ -1,5 +1,5 @@
 <resources>
     <string name="app_name">SecondScreen</string>
     <string name="second_activity">Открыть Second Activity</string>
-    <string name="this_is_the_second_activity">This is the second activity</string>
+    <string name="this_is_the_second_activity">Это second activity</string>
 </resources>
